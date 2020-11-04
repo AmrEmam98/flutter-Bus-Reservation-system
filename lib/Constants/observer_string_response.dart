@@ -1,0 +1,5 @@
+
+
+
+const String SUCCESS_RESPONSE="SUCCESS";
+const String FAIL_RESPONSE="FAIL";

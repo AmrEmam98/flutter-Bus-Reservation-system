@@ -1,0 +1,4 @@
+
+const USERS_COLLECTION_PATH='Users';
+const LINES_COLLECTION_PATH='Lines';
+const REQUESTS_COLLECTION_PATH='Requests';
